@@ -1,0 +1,978 @@
+[
+  [
+    {
+      "Doctor ID": "12345678",
+      "Doctor Name": "Dr. Abhishek Agrawal",
+      "Specialization": "Cardiologist",
+      "Location": "Medical Collage Road Mugalaha",
+      "City": "Gorakhpur",
+      "Experience": "2 Years in Healthcare",
+      "Experience Years": 2,
+      "Services": [
+        "Rheumatic Heart Disease",
+        "Carotid Angioplasty And Stenting",
+        "Coronary Angioplasty",
+        "Mitral Balloon Valvuloplasty",
+        "Carotid Artery Disease"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": "111",
+      "Contact Number": "07947312093",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/s1/9999px551.x551.211222102121.x2s1/catalogue/dr-abhishek-agrawal-cardiologist-and-m-s-pathology-b-r-d-medical-college-gorakhpur-pathology-labs-f41l49u3cr.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/s1/9999px551.x551.211222102121.x2s1/catalogue/dr-abhishek-agrawal-cardiologist-and-m-s-pathology-b-r-d-medical-college-gorakhpur-pathology-labs-i4yvx4p13h.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "23456789",
+      "Doctor Name": "Dr. Prakash Chand Shahi",
+      "Specialization": "Cardiologist",
+      "Location": "Kasaya Road Betiahata",
+      "City": "Gorakhpur",
+      "Experience": "21 Years in Healthcare",
+      "Experience Years": 21,
+      "Services": [
+        "Clinical Cardiology",
+        "Angioplasty And Stenting",
+        "Mitral Balloon Valvuloplasty"
+      ],
+      "Ratings": "4.6",
+      "Total Appointments": "172",
+      "Contact Number": "07383412194",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/s1/9999px551.x551.151110224528.f1s1/catalogue/dr-prakash-chand-shahi-pulse-heart-centre-betiahata-gorakhpur-angiography-testing-centres-d8f7rssfbp.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/s1/9999px551.x551.151110224528.f1s1/catalogue/dr-prakash-chand-shahi-pulse-heart-centre-betiahata-gorakhpur-angiography-testing-centres-zmvy6.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "34567890",
+      "Doctor Name": "Dr. Gaurav Mukhija",
+      "Specialization": "Dermatologist",
+      "Location": "Betiahata, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "10 Years in Healthcare",
+      "Experience Years": 10,
+      "Services": [
+        "Allergy",
+        "Atopic Dermatitis",
+        "Bacterial Skin Infection",
+        "Eczema"
+      ],
+      "Ratings": "3.8",
+      "Total Appointments": "310",
+      "Contact Number": "07383106752",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/k9/9999px551.x551.150728150300.i6k9/catalogue/mukhija-skin-clinic-dr-r-d-mukhija-and-dr-gaurav-mukhija-betiahata-gorakhpur-dermatologists-xcw3x.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/k9/9999px551.x551.150728150300.i6k9/catalogue/mukhija-skin-clinic-dr-gaurav-mukhija-and-dr-r-d-mukhija-betiahata-gorakhpur-skin-care-clinics-5fcayo3mo9.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "45678901",
+      "Doctor Name": "Dr. Dekid Palmo",
+      "Specialization": "Cosmetic Surgeon",
+      "Location": "Civil Lines, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "15 Years in Healthcare",
+      "Experience Years": 15,
+      "Services": [
+        "Cosmetic Surgery",
+        "Laser Treatments",
+        "Hair Transplantation",
+        "Botox"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": "420",
+      "Contact Number": "07383106753",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/x5/9999px551.x551.190503165022.u8x5/catalogue/dr-dekid-palmo-civil-lines-gorakhpur-cosmetic-surgeon-doctors-9onbq0rwwu.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/x5/9999px551.x551.190503165022.u8x5/catalogue/dr-dekid-palmo-lifecare-hospital-civil-lines-gorakhpur-cosmetic-surgeon-doctors-vs7v0i8yfi.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "56789012",
+      "Doctor Name": "Dr. Abhishek Seth",
+      "Specialization": "Gastroenterologist",
+      "Location": "Civil Lines, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "9 Years in Healthcare",
+      "Experience Years": 9,
+      "Services": [
+        "GI and HPB"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": "167",
+      "Contact Number": "07947382335",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/m2/9999px551.x551.200307115957.v6m2/catalogue/dr-abhishek-seth-betiahata-gorakhpur-gastroenterologists-twdih2mcz4.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/m2/9999px551.x551.200307115957.v6m2/catalogue/dr-abhishek-seth-lifecare-hospital-civil-lines-gorakhpur-gastroenterologists-ie530jras1.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "67890123",
+      "Doctor Name": "Dr. Avinash Singh",
+      "Specialization": "Gastroenterologist",
+      "Location": "Betiahata, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "2 Years in Healthcare",
+      "Experience Years": 2,
+      "Services": [
+        "Endoscopic Retrograde Cholangio Pancreatography"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": "198",
+      "Contact Number": "07942779704",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/n1/9999px551.x551.221003184436.x2n1/catalogue/dr-avinash-singh-ayansh-gastro-gynae-centre-betiahata-gorakhpur-gastroenterologists-wplx0ww99t.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/n1/9999px551.x551.221003184436.x2n1/catalogue/dr-avinash-singh-ayansh-gastro-gynae-centre-betiahata-gorakhpur-gastroenterologists-vi3m2a2t77.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "R8K2P5Y1",
+      "Doctor Name": "Dr. Avijit Sarkari",
+      "Specialization": "Neurosurgeon",
+      "Location": "Nahar Road Daudpur, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "15 Years in Healthcare",
+      "Experience Years": 15,
+      "Services": [
+        "Ophthalmic Surgical Consultation",
+        "All Types of Headache",
+        "Neurology"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": "466",
+      "Contact Number": "07947381574",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/c3/9999px551.x551.140330151628.h7c3/catalogue/dr-avijit-sarkari-neuro-brain-spine-clinic-daudpur-gorakhpur-neurosurgeons-1grpqexvfe.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/c3/9999px551.x551.140330151628.h7c3/catalogue/dr-avijit-sarkari-neuro-brain-spine-clinic-daudpur-gorakhpur-neurosurgeons-3woqxup.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "M3Z9G5H7",
+      "Doctor Name": "Dr. Mukesh Shukla",
+      "Specialization": "Neurosurgeon",
+      "Location": "Medical Road Chargaon, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "7 Years in Healthcare",
+      "Experience Years": 7,
+      "Services": [
+        "Neurology",
+        "All Types of Headache"
+      ],
+      "Ratings": "3.8",
+      "Total Appointments": "237",
+      "Contact Number": "07947381791",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/z6/9999px551.x551.171002051116.t8z6/catalogue/dr-mukesh-shukla-ramgyan-neuro-spine-centre-gorakhpur-1ed80yvkqi.jpg?clr=#664e00",
+        "https://content.jdmagicbox.com/comp/gorakhpur/z6/9999px551.x551.171002051116.t8z6/catalogue/dr-mukesh-shukla-ramgyan-neuro-spine-centre-gorakhpur-0yzmeas1gy.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "Q7W9E2R5",
+      "Doctor Name": "Dr. Manmohan Baranwal",
+      "Specialization": "Orthopedic Surgeon",
+      "Location": "Azad Chowk Shivpuri New Colony, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "13 Years in Healthcare",
+      "Experience Years": 13,
+      "Services": [
+        "Knee Osteotomy",
+        "Functional Orthopedics"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": "73",
+      "Contact Number": "07947381610",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/u8/9999px551.x551.140702124329.x9u8/catalogue/excel-ortho-care-dr-manmohan-baranwal-shivpuri-new-colony-gorakhpur-orthopaedic-doctors-xk0ugp.jpeg?clr=#2d2d39",
+        "https://content.jdmagicbox.com/comp/gorakhpur/u8/9999px551.x551.140702124329.x9u8/catalogue/excel-ortho-care-dr-manmohan-baranwal-shivpuri-new-colony-gorakhpur-orthopaedic-doctors-ramb82e4wn.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "N6T3Y8U1",
+      "Doctor Name": "Dr. Yashvardhan Jaiswal",
+      "Specialization": "Orthopedic Surgeon",
+      "Location": "Civil Lines, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "17 Years in Healthcare",
+      "Experience Years": 17,
+      "Services": [
+        "Knee Osteotomy"
+      ],
+      "Ratings": "4.9",
+      "Total Appointments": "105",
+      "Contact Number": "07947381930",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/d1/9999px551.x551.180830010751.r6d1/catalogue/dr-yashvardhan-jaiswal-civil-lines-gorakhpur-orthopaedic-doctors-e6mvkrxscn.jpg?clr=#3f273f",
+        "https://content.jdmagicbox.com/comp/gorakhpur/d1/9999px551.x551.180830010751.r6d1/catalogue/dr-yashvardhan-jaiswal-civil-lines-gorakhpur-orthopaedic-doctors-7gmd85ns9q.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "P2Q5R8T9",
+      "Doctor Name": "Dr. O. N Srivastava",
+      "Specialization": "Pediatrician",
+      "Location": "Shahpur, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Child Care Treatment",
+        "Preventive Medicine"
+      ],
+      "Ratings": "3.9",
+      "Total Appointments": 131,
+      "Contact Number": "07947327225",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/m1/9999px551.x551.190702124656.t5m1/catalogue/dr-o-n-srivastava-gorakhpur-paediatricians-7n4vzepmiy.jpg?clr=#563810",
+        "https://content.jdmagicbox.com/comp/gorakhpur/m1/9999px551.x551.190702124656.t5m1/catalogue/dr-o-n-srivastava-gorakhpur-paediatricians-0atc6newni.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "V7K3S9M2",
+      "Doctor Name": "Dr. Vinay Sinha",
+      "Specialization": "Pediatrician",
+      "Location": "Padri Bazar Shatabdipuram, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "25 Years in Healthcare",
+      "Experience Years": 25,
+      "Services": [
+        "Child Care Treatment",
+        "Null"
+      ],
+      "Ratings": "3.9",
+      "Total Appointments": 22,
+      "Contact Number": "Null",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/v3/9999px551.x551.190306185713.l4v3/catalogue/dr-vinay-sinha-gorakhpur-gastroenterologists-tgahru6v6b.jpg?clr=#2d392d",
+        "https://content.jdmagicbox.com/comp/gorakhpur/v3/9999px551.x551.190306185713.l4v3/catalogue/dr-vinay-sinha-gorakhpur-gastroenterologists-unarfr49xw.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "R2G2DC",
+      "Doctor Name": "Dr. Pankhuri Johari & Dr. Durgesh Kumar",
+      "Specialization": "Ophthalmologist",
+      "Location": "Jubilee Road, Bank Road, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "24 Years in Healthcare",
+      "Experience Years": 24,
+      "Services": [
+        "Contact Lens Prescription",
+        "Glaucoma"
+      ],
+      "Ratings": "4.0",
+      "Total Appointments": 68,
+      "Contact Number": "07947381541",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/dc/9999px551.x551.130915151455.r2g2dc/catalogue/sri-ram-janki-netralaya-dr-pankhuri-johari-and-dr-durgesh-kumar-bank-road-gorakhpur-gorakhpur-eye-hospitals-0kherfx3ge.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/dc/9999px551.x551.130915151455.r2g2dc/catalogue/sri-ram-janki-netralaya-dr-pankhuri-johari-and-dr-durgesh-kumar-bank-road-gorakhpur-gorakhpur-eye-hospitals-cb151dc38p.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "B3Z8",
+      "Doctor Name": "Dr. Sangita Srivastava",
+      "Specialization": "Ophthalmologist",
+      "Location": "Cantt Thana Chauraha, Betiahata, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "13 Years in Healthcare",
+      "Experience Years": 13,
+      "Services": [
+        "Contact Lens Prescription",
+        "Glaucoma"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": 84,
+      "Contact Number": "07947382067",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/z8/9999px551.x551.190426141024.b3z8/catalogue/dr-sangita-srivastava-jeevan-jyoti-netra-chikitsalaya--betiahata-gorakhpur-optometrist-doctors-mgbkytks5k.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/z8/9999px551.x551.190426141024.b3z8/catalogue/dr-sangita-srivastava-betiahata-gorakhpur-ophthalmologists-wguhtkp741.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "V3K5",
+      "Doctor Name": "Dr. Gopal Agarwal",
+      "Specialization": "Psychiatrist",
+      "Location": "100 Meter Paschim, Gorakhpur HO, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "6 Years in Healthcare",
+      "Experience Years": 6,
+      "Services": [
+        "Psychiatrists"
+      ],
+      "Ratings": "4.4",
+      "Total Appointments": 104,
+      "Contact Number": "07947235691",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/k5/9999px551.x551.180921190647.v3k5/catalogue/dr-gopal-agarwal-gorakhpur-ho-gorakhpur-psychiatrists-3l47jlfpdr.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/k5/9999px551.x551.180921190647.v3k5/catalogue/dr-gopal-agarwal-gorakhpur-ho-gorakhpur-hospitals-vrzhqi7i8f.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "L5Q4",
+      "Doctor Name": "Dr. Prabhat Kumar Agrawal",
+      "Specialization": "Psychiatrist",
+      "Location": "33 Kasya Road, Betiahata, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "6 Years in Healthcare",
+      "Experience Years": 6,
+      "Services": [
+        "Adolescent and Teenage Emotional Issues",
+        "Gall Bladder Stone"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": 101,
+      "Contact Number": "07947293560",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/q4/9999px551.x551.191011160457.l5q4/catalogue/dr-prabhat-kumar-agrawal-gorakhpur-hospitals-z80pdxt166.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/q4/9999px551.x551.191011160457.l5q4/catalogue/dr-prabhat-kumar-agrawal-gorakhpur-hospitals-znaq88kqlm.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "R6Q1",
+      "Doctor Name": "Dr. Dharmendra Kamla",
+      "Specialization": "Psychiatrist",
+      "Location": "Rapti Nagar, Gorakhpur City, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "10 Years in Healthcare",
+      "Experience Years": 10,
+      "Services": [
+        "Professional services with excellence"
+      ],
+      "Ratings": "4.8",
+      "Total Appointments": 130,
+      "Contact Number": "07947335055",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/q1/9999px551.x551.220127122846.r6q1/catalogue/dr-dharmendra-kamla-gorakhpur-city-gorakhpur-hospitals-wc69vntzzh.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/q1/9999px551.x551.220127122846.r6q1/catalogue/dr-dharmendra-kamla-gorakhpur-city-gorakhpur-hospitals-hssuwo1623.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "D6R3",
+      "Doctor Name": "Dr. Chhavi Sarkari Gynaecology Infertility and Laparoscopy Centre",
+      "Specialization": "Gynaecologist & Obstetrician",
+      "Location": "Nahar Road Daudpur, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "19 Years in Healthcare",
+      "Experience Years": 19,
+      "Services": [
+        "Gynaecological Cancer Treatment"
+      ],
+      "Ratings": "4.3",
+      "Total Appointments": 282,
+      "Contact Number": "07947381813",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/r3/9999px551.x551.171205081433.d6r3/catalogue/dr-chhavi-sarkari-gynaecology-infertility-and-laparoscopy-centre-daudpur-gorakhpur-clinics-0u7jl6oooq.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/r3/9999px551.x551.171205081433.d6r3/catalogue/dr-chhavi-sarkari-gynaecology-infertility-and-laparoscopy-centre-daudpur-gorakhpur-clinics-37vt4pd66l.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "N5R1",
+      "Doctor Name": "Dr. Smita Jaiswal (Lifecare Hospital)",
+      "Specialization": "Gynaecologist & Obstetrician",
+      "Location": "Civil Lines, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "41 Years in Healthcare",
+      "Experience Years": 41,
+      "Services": [
+        "Gynaecological Cancer Treatment",
+        "In-Vitro Fertilisation (IVF)"
+      ],
+      "Ratings": "4.8",
+      "Total Appointments": 526,
+      "Contact Number": "07383348239",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/r1/9999px551.x551.181123175709.n5r1/catalogue/dr-smita-jaiswal-gold-medalist--gorakhpur-gynaecologist-and-obstetrician-doctors-1da4wqekbh.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/r1/9999px551.x551.181123175709.n5r1/catalogue/dr-smita-jaiswal-lifecare-hospital--civil-lines-gorakhpur-gynaecologist-and-obstetrician-doctors-0xnvymxu7d.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "T4W2",
+      "Doctor Name": "Aastha IVF - Dr Mandar Chavan & Dr. Sunita Chavan",
+      "Specialization": "Gynaecologist & Obstetrician",
+      "Location": "College Road Arogyamandir, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "27 Years in Healthcare",
+      "Experience Years": 27,
+      "Services": [
+        "Gynaecological Cancer Treatment",
+        "In-Vitro Fertilisation (IVF)"
+      ],
+      "Ratings": "4.5",
+      "Total Appointments": 526,
+      "Contact Number": "07947381621",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/w2/9999px551.x551.140820182154.t4w2/catalogue/aastha-ivf-dr-mandar-chavan-and-dr-sunita-chavan-arogyamandir-gorakhpur-private-hospitals-sizy69r10q.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/w2/9999px551.x551.140820182154.t4w2/catalogue/aastha-ivf-dr-mandar-chavan-and-dr-sunita-chavan-arogyamandir-gorakhpur-private-hospitals-u9jxpt32ym.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "X2L6",
+      "Doctor Name": "Dr. Abhinav Jaiswal",
+      "Specialization": "Urologist",
+      "Location": "Civil Lines, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "17 Years in Healthcare",
+      "Experience Years": 17,
+      "Services": [
+        "Prostate Laser Surgery",
+        "Pediatric Urology Counselling",
+        "Prostate Surgery"
+      ],
+      "Ratings": "4.8",
+      "Total Appointments": 191,
+      "Contact Number": "07947381928",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/l6/9999px551.x551.180827085433.x2l6/catalogue/dr-abhinav-jaiswal-gorakhpur-urologist-doctors-j6egat8bkh.jpg",
+        "https://content.jdmagicbox.com/comp/gorakhpur/l6/9999px551.x551.180827085433.x2l6/catalogue/dr-abhinav-jaiswal-gorakhpur-urologist-doctors-jb8gqkmvut.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "Z3D6",
+      "Doctor Name": "Dr. ROHIT RANJAN (AIIMS)",
+      "Specialization": "Urologist",
+      "Location": "Road Gorakhnath Mandir, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "28 Years in Healthcare",
+      "Experience Years": 28,
+      "Services": [
+        "Prostate Laser Surgery",
+        "Reconstructive Urology"
+      ],
+      "Ratings": "5.0",
+      "Total Appointments": 138,
+      "Contact Number": "07947438336",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/d6/9999px551.x551.221129194551.z3d6/catalogue/dr-rohit-ranjan-aiims--gorakhnath-mandir-gorakhpur-laser-prostatectomy-surgeons-0gmpxm5jdx.jpeg?clr=#3b2b3b",
+        "https://content.jdmagicbox.com/comp/gorakhpur/d6/9999px551.x551.221129194551.z3d6/catalogue/dr-rohit-ranjan-aiims-gorakhnath-mandir-gorakhpur-laser-prostatectomy-surgeons-pbhni0idsc.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "A3D3",
+      "Doctor Name": "Deeksha Prime Urocare Center",
+      "Specialization": "Urologist",
+      "Location": "33 Kasia Road Betiahata, Gorakhpur",
+      "City": "Gorakhpur",
+      "Experience": "4 Years in Healthcare",
+      "Experience Years": 4,
+      "Services": [
+        "Urological Cancer Treatment",
+        "Laparoscopic Urology",
+        "Urethral Stricture Surgery"
+      ],
+      "Ratings": "4.6",
+      "Total Appointments": 72,
+      "Contact Number": "07947382221",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/gorakhpur/d3/9999px551.x551.191112143524.a3d3/catalogue/deeksha-prime-urocare-center-gorakhpur-dnvc37l8yw.jpg?clr=#4b1b1b",
+        "https://content.jdmagicbox.com/comp/gorakhpur/d3/9999px551.x551.191112143524.a3d3/catalogue/deeksha-prime-urocare-center-betiahata-gorakhpur-urologist-doctors-jtr3kvy12p.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "P9Y6",
+      "Doctor Name": "Dr. S C Sinha",
+      "Specialization": "Orthopaedic Doctor",
+      "Location": "Gomti Nagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "1 Year in Healthcare",
+      "Experience Years": 1,
+      "Services": [
+        "Orthopaedic Consultation"
+      ],
+      "Ratings": "5.0",
+      "Total Appointments": null,
+      "Contact Number": "08123851602",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/y6/0522px522.x522.230519125922.p9y6/catalogue/dr-s-c-sinha-gomti-nagar-lucknow-orthopaedic-doctors-oifaxwd6yo.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "B1I6",
+      "Doctor Name": "Shivendra's Ortho Clinic",
+      "Specialization": "Orthopaedic Doctor",
+      "Location": "Indira Nagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "23 Years in Healthcare",
+      "Experience Years": 23,
+      "Services": [
+        "Functional Orthopedics Consultation"
+      ],
+      "Ratings": "4.5",
+      "Total Appointments": null,
+      "Contact Number": "07411844658",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/i6/0522px522.x522.170114122355.b1i6/catalogue/shivendra-s-ortho-clinic-indira-nagar-lucknow-orthopaedic-doctors-yjl99gvbkw.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "S5E2",
+      "Doctor Name": "Dr. Rajesh Kumar Prajapati",
+      "Specialization": "Orthopaedic Doctor",
+      "Location": "Rai Bareli Road, Telibagh, Lucknow",
+      "City": "Lucknow",
+      "Experience": "9 Years in Healthcare",
+      "Experience Years": 9,
+      "Services": [
+        "Arthroscopy Consultation",
+        "Shoulder Replacement",
+        "Functional Orthopedics Consultation"
+      ],
+      "Ratings": "4.5",
+      "Total Appointments": null,
+      "Contact Number": "07947380734",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/e2/0522px522.x522.160521145054.s5e2/catalogue/dr-rajesh-kumar-prajapati-telibagh-lucknow-orthopaedic-doctors-t2wiqfut8k.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "D5S9",
+      "Doctor Name": "Jiva Ayurveda Clinic & Panchkarma Center",
+      "Specialization": "Gastroenterologist",
+      "Location": "Kanpur Road Alambagh, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Hemorrhoids Treatment",
+        "Ayurvedic Gastroenterology",
+        "Liver Disorders"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": null,
+      "Contact Number": "07383605645",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.181006190403.d5s9/catalogue/jiva-ayurveda-clinic-and-panchkarma-center-alambagh-lucknow-gynaecologist-and-obstetrician-doctors-1gjw3f435x.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.181006190403.d5s9/catalogue/jiva-ayurveda-clinic-and-panchkarma-center-alambagh-lucknow-gynaecologist-and-obstetrician-doctors-cvyqernobp.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "N7U2",
+      "Doctor Name": "Jiva Ayurveda Clinic",
+      "Specialization": "Gastroenterologist",
+      "Location": "Railway Station Road Gomti Nagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Hemorrhoids Treatment",
+        "Ayurvedic Gastroenterology",
+        "Liver Disorders"
+      ],
+      "Ratings": "4.3",
+      "Total Appointments": null,
+      "Contact Number": "07383222172",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/u2/0522px522.x522.180905184122.n7u2/catalogue/jiva-ayurveda-clinic-gomti-nagar-lucknow-ayurvedic-doctors-1xz8kuydvj.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/u2/0522px522.x522.180905184122.n7u2/catalogue/jiva-ayurveda-clinic-gomti-nagar-lucknow-ayurvedic-doctors-0pxhfqxjtj.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "N6S7",
+      "Doctor Name": "Dr. Waliullah Siddiqui",
+      "Specialization": "Gastroenterologist",
+      "Location": "Kanpur Road, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Hemorrhoids Treatment",
+        "GI and HPB Consultation",
+        "Digestive Disorders"
+      ],
+      "Ratings": "4.4",
+      "Total Appointments": null,
+      "Contact Number": "07411845815",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/s7/0522px522.x522.190809150722.n6s7/catalogue/dr-waliullah-siddiqui-kanpur-road-lucknow-gastroenterologists-dghdwhzhqk.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/s7/0522px522.x522.190809150722.n6s7/catalogue/dr-waliullah-siddiqui-kanpur-road-lucknow-gastroenterologists-dvnd1pmjyd.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "K6F3",
+      "Doctor Name": "The Sparsh Clinic Skin Care & Hair Transplant Centre",
+      "Specialization": "Dermatologist",
+      "Location": "Vivek Khand Gomti Nagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "13 Years in Healthcare",
+      "Experience Years": 13,
+      "Services": [
+        "Skin Problems Treatment",
+        "Hair Transplant Surgery",
+        "Laser Hair Removal"
+      ],
+      "Ratings": "4.3",
+      "Total Appointments": null,
+      "Contact Number": "07942769372",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/f3/0522px512.x512.120119084100.k6f3/catalogue/the-sparsh-klinic-skin-care-and-hair-transplant-centre-gomti-nagar-lucknow-hospitals-das5uqi55n.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/f3/0522px512.x512.120119084100.k6f3/catalogue/the-sparsh-klinic-skin-care-and-hair-transplant-centre-gomti-nagar-lucknow-hospitals-ph3evo4po8.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "D5S9",
+      "Doctor Name": "Jiva Ayurveda Clinic & Panchkarma Center",
+      "Specialization": "Dermatologist",
+      "Location": "Kanpur Road Alambagh, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Ayurvedic Skin Treatment",
+        "Panchakarma Therapy",
+        "Herbal Beauty Treatment"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": null,
+      "Contact Number": "07383605645",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.181006190403.d5s9/catalogue/jiva-ayurveda-clinic-and-panchkarma-center-alambagh-lucknow-gynaecologist-and-obstetrician-doctors-1gjw3f435x.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.181006190403.d5s9/catalogue/jiva-ayurveda-clinic-and-panchkarma-center-alambagh-lucknow-gynaecologist-and-obstetrician-doctors-cvyqernobp.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "H2S9",
+      "Doctor Name": "Dr. Guptas Skin & Hair Hospital",
+      "Specialization": "Dermatologist",
+      "Location": "15 Cantonment Road Lalbagh, Lucknow",
+      "City": "Lucknow",
+      "Experience": "76 Years in Healthcare",
+      "Experience Years": 76,
+      "Services": [
+        "Light Sheer Diode Laser",
+        "Sun Spots Treatment",
+        "Chemical Peel"
+      ],
+      "Ratings": "3.8",
+      "Total Appointments": null,
+      "Contact Number": "07947274424",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.131024121159.h2s9/catalogue/dr-guptas-skin-hair-hospital-lalbagh-lucknow-dermatologists-19eporq.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/s9/0522px522.x522.131024121159.h2s9/catalogue/dr-guptas-skin-and-hair-hospital-lalbagh-lucknow-hospitals-qt93swtyo4.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "G3K7",
+      "Doctor Name": "Dr. (Col) Ajay Bahadur",
+      "Specialization": "Interventional Cardiologist",
+      "Location": "LDA Colony, Lucknow",
+      "City": "Lucknow",
+      "Experience": "33 Years in Healthcare",
+      "Experience Years": 33,
+      "Services": [
+        "Coronary Angioplasty"
+      ],
+      "Ratings": "4.9",
+      "Total Appointments": 63,
+      "Contact Number": "07383605815",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/k7/0522px522.x522.191010191921.g3k7/catalogue/dr-col-ajay-bahadur-lda-colony-lucknow-interventional-cardiologists-e9flg6gtcz.jpg?clr=#2d392d",
+        "https://content.jdmagicbox.com/comp/lucknow/k7/0522px522.x522.191010191921.g3k7/catalogue/dr-col-ajay-bahadur-lda-colony-lucknow-interventional-cardiologists-0jxbx4slj5.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "P4G2",
+      "Doctor Name": "Medanta Hospital",
+      "Specialization": "Cardiologist",
+      "Location": "Sushant Golf Sushant Golf City, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Coronary Angioplasty"
+      ],
+      "Ratings": "3.6",
+      "Total Appointments": 1447,
+      "Contact Number": "07383027581",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/g2/0522px522.x522.191128210231.p4g2/catalogue/medanta-hospital-lucknow-lucknow-private-hospitals-cnb4oxtnq7.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/g2/0522px522.x522.191128210231.p4g2/catalogue/medanta-hospital-sushant-golf-city-lucknow-private-hospitals-afn92da1hj.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "N2M3",
+      "Doctor Name": "Dr. Tarun Agarwal Gopi Krishna Laser Stone Centre",
+      "Specialization": "Urologist",
+      "Location": "Aliganj, Lucknow",
+      "City": "Lucknow",
+      "Experience": "10 Years in Healthcare",
+      "Experience Years": 10,
+      "Services": [
+        "Prostate Laser Surgery",
+        "Pediatric Urology Counselling",
+        "Prostate Surgery"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": 521,
+      "Contact Number": "07383605334",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/m3/0522px522.x522.140322193655.n2m3/catalogue/dr-tarun-agarwal-gopi-krishna-laser-stone-centre-aliganj-lucknow-hospital-general-surgeon-w5229swm3k.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/m3/0522px522.x522.140322193655.n2m3/catalogue/dr-tarun-agarwal-gopi-krishna-laser-stone-centre-aliganj-lucknow-clinics-x73oz.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "J3S7",
+      "Doctor Name": "Dr Rahul Yadav",
+      "Specialization": "Urologist",
+      "Location": "Gomti Nagar Extension Kanpur Rd, Lucknow",
+      "City": "Lucknow",
+      "Experience": "Not Available",
+      "Experience Years": null,
+      "Services": [
+        "Prostate Laser Surgery",
+        "Reconstructive Urology",
+        "Prostate Surgery"
+      ],
+      "Ratings": "4.9",
+      "Total Appointments": 167,
+      "Contact Number": "07947276122",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/s7/0522px522.x522.190620164628.j3s7/catalogue/dr-rahul-yadav-kanpur-rd-lucknow-urologist-doctors-1shyn9bsay.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/s7/0522px522.x522.190620164628.j3s7/catalogue/dr-rahul-yadav-kanpur-rd-lucknow-urologist-doctors-g163oem0kt.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "W8S9",
+      "Doctor Name": "Dr. H K Agarwal",
+      "Specialization": "Psychiatrist",
+      "Location": "Faizabad Road, Lucknow",
+      "City": "Lucknow",
+      "Experience": "37 years",
+      "Experience Years": 37,
+      "Services": [
+        "Schizophrenia Management",
+        "Cognitive Behaviour Therapy (CBT)",
+        "Low Confidence",
+        "Behaviour Management"
+      ],
+      "Ratings": "4.5",
+      "Total Appointments": null,
+      "Contact Number": "01125532553",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/u8/0522px522.x522.150728150300.i3u8/catalogue/dr-h-k-agarwal-niravn-hospital-pvt-ltd-faizabad-road-lucknow-drug-de-addiction-centres-2k5hcww.jpg",
+        "https://content.jdmagicbox.com/comp/def_content/hospitals/default-hospitals-9.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "U6M9",
+      "Doctor Name": "Dr. R.k. Thukral",
+      "Specialization": "Psychiatrist",
+      "Location": "Mahanagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "26 years",
+      "Experience Years": 26,
+      "Services": [
+        "Psychiatrists"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": null,
+      "Contact Number": "09035674870",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1235198924r5k9t9.dc/catalogue/dr-r-k-thukral-mahanagar-lucknow-sexologist-doctors-mtbn8po4qx.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1235198924r5k9t9.dc/catalogue/dr-r-k-thukral-mahanagar-lucknow-psychiatrists-neo2qh1vld.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "J9Q4",
+      "Doctor Name": "Dr. A. Haleem",
+      "Specialization": "Pediatrician",
+      "Location": "Aminabad Park, Lucknow",
+      "City": "Lucknow",
+      "Experience": "64 years",
+      "Experience Years": 64,
+      "Services": [
+        "Pediatricians"
+      ],
+      "Ratings": "3.0",
+      "Total Appointments": null,
+      "Contact Number": "9723718211",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/q4/0522px522.x522.191205010733.j9q4/catalogue/dr-a-haleem-haleem-clinic-birhana-tiraha-aminabad-park-lucknow-pediatricians-w6t9nly7jg.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "I3Q4",
+      "Doctor Name": "Dr. N K Nathu",
+      "Specialization": "Pediatrician",
+      "Location": "Raja Bazar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "61 years",
+      "Experience Years": 61,
+      "Services": [
+        "Pediatricians"
+      ],
+      "Ratings": "4.0",
+      "Total Appointments": null,
+      "Contact Number": "1234567899",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/q4/0522px522.x522.191204231340.i3q4/catalogue/dr-n-k-nathu-nathu-clinic-near-raja-bazar-mandi-raja-bazar-lucknow-pediatricians-t2onodgza9.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "M6A9",
+      "Doctor Name": "Dr. S K Sinha",
+      "Specialization": "Pediatrician",
+      "Location": "Raibrely Road, Utrathia, Lucknow",
+      "City": "Lucknow",
+      "Experience": "57 years",
+      "Experience Years": 57,
+      "Services": [
+        "X-Ray"
+      ],
+      "Ratings": "3.0",
+      "Total Appointments": null,
+      "Contact Number": "179164198",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/q4/0522px522.x522.170821180747.m6a9/catalogue/dr-s-k-sinha-laxmi-clinic-near-asha-nursing-home-utrathia-lucknow-pediatricians-1eqw1aa4fo.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "48354",
+      "Doctor Name": "Dr. Rajeev Nath",
+      "Specialization": "Ophthalmologist",
+      "Location": "Nishatganj, Lucknow",
+      "City": "Lucknow",
+      "Experience": "39 years",
+      "Experience Years": 39,
+      "Services": [
+        "Ophthalmic Surgical Consultation",
+        "Contact Lens Prescription"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": null,
+      "Contact Number": "Not Available",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/54/0522p522std48354/catalogue/dr-rajeev-nath-nishatganj-lucknow-ophthalmologists-sqa8tqjk2h.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/54/0522p522std48354/catalogue/dr-rajeev-nath-nishatganj-lucknow-ophthalmologists-yfdrrkxtp2.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "X3L6",
+      "Doctor Name": "Dr. A. K. Srivastava",
+      "Specialization": "Ophthalmologist",
+      "Location": "Aditya Mishra Marg, HAL, Lucknow",
+      "City": "Lucknow",
+      "Experience": "38 years",
+      "Experience Years": 38,
+      "Services": [
+        "Ophthalmologists"
+      ],
+      "Ratings": "4.0",
+      "Total Appointments": null,
+      "Contact Number": "Not Available",
+      "Image URLs": []
+    },
+    {
+      "Doctor ID": "G7A6",
+      "Doctor Name": "Sanjay Kackar",
+      "Specialization": "Ophthalmologist",
+      "Location": "Cantt Road, Lucknow",
+      "City": "Lucknow",
+      "Experience": "36 years",
+      "Experience Years": 36,
+      "Services": [
+        "Contact Lens Prescription",
+        "Eye Muscle Surgery",
+        "Vitreoretinal Surgery"
+      ],
+      "Ratings": "5.0",
+      "Total Appointments": null,
+      "Contact Number": "Not Available",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/a6/0522px522.x522.140425143019.g7a6/catalogue/sanjay-kackar-navjyoti-eye-hospital-laser-center--lucknow-kwn5c.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/a6/0522px522.x522.140425143019.g7a6/catalogue/sanjay-kackar-navjyoti-eye-hospital-laser-center--lucknow-tc6jw.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "D3M3",
+      "Doctor Name": "Dr. Vinit Sah",
+      "Specialization": "Ophthalmologist",
+      "Location": "Aliganj Main road, Aliganj, Lucknow",
+      "City": "Lucknow",
+      "Experience": "34 years",
+      "Experience Years": 34,
+      "Services": [
+        "Contact Lens Prescription"
+      ],
+      "Ratings": "4.2",
+      "Total Appointments": null,
+      "Contact Number": "Not Available",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1235035939d3m3g4.dc/catalogue/dr-vinit-sah-sah-eye-care-aliganj-lucknow-ophthalmologists-9y73j7jcao.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1235035939d3m3g4.dc/catalogue/dr-vinit-sah-sah-eye-care-aliganj-lucknow-ophthalmologists-s28oo200wo.jpg"
+      ]
+    }
+  ],
+  [
+    {
+      "Doctor ID": "Y3H3",
+      "Doctor Name": "Aastha Hospice & Geriatric Care Centre",
+      "Specialization": "Gynaecologist & Obstetrician",
+      "Location": "B 52 J Park, Mahanagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "18 years",
+      "Experience Years": 18,
+      "Services": [
+        "Gynaecological Cancer Treatment",
+        "In-Vitro Fertilisation (IVF)"
+      ],
+      "Ratings": "4.7",
+      "Total Appointments": null,
+      "Contact Number": "07383139763",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1234349913y3h3e1.dc/catalogue/aastha-centre-for-geriatric-medicine-palliative-care-hospital-and-hospice-mahanagar-lucknow-hospitals-u7b7mpf4l1.jpg?clr=#213945",
+        "https://content.jdmagicbox.com/comp/lucknow/dc/0522px522.x522.1234349913y3h3e1.dc/catalogue/aastha-hospice-and-geriatric-care-centre-mahanagar-lucknow-hospitals-8ny6c3nkhs.jpg"
+      ]
+    },
+    {
+      "Doctor ID": "Y3D4",
+      "Doctor Name": "Dr. Bagchi Gynaecology and Infertility Center",
+      "Specialization": "Gynaecologist & Obstetrician",
+      "Location": "Gomti Nagar, Lucknow",
+      "City": "Lucknow",
+      "Experience": "7 years",
+      "Experience Years": 7,
+      "Services": [
+        "Gynaecological Cancer Treatment",
+        "In-Vitro Fertilisation (IVF)"
+      ],
+      "Ratings": "4.8",
+      "Total Appointments": null,
+      "Contact Number": "07411844876",
+      "Image URLs": [
+        "https://content.jdmagicbox.com/comp/lucknow/d4/0522px522.x522.170717195230.y3d4/catalogue/dr-bagchi-s-gynaecology-and-infertility-center-gomti-nagar-lucknow-infertility-centres-y6dbj.jpg",
+        "https://content.jdmagicbox.com/comp/lucknow/d4/0522px522.x522.170717195230.y3d4/catalogue/dr-bagchi-gynaecology-and-infertility-center-gomti-nagar-lucknow-gynaecologist-and-obstetrician-doctors-xbtgjxe9bv.jpg"
+      ]
+    }
+  ]
+]
